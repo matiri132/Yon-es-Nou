@@ -14,3 +14,6 @@ git remote add origin "http://direccion.del.repositorio"
 git remote -v //Devuelve donde esta el repositorio
 git pull origin master //Actualiza el branch actual
 git push origin master //Actualiza el repo con las modificaciones
+
+
+////Actualizacion Martes 3/04
