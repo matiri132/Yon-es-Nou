@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/butMode1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elevation="7dp"
+        android:text="@string/butMode1"
+        android:layout_marginTop="194dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/butMode2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/butMode1"
+        android:layout_alignRight="@+id/butMode1"
+        android:layout_centerVertical="true"
+        android:text="@string/butMode2" />
+
+    <Button
+        android:id="@+id/butOff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/butMode2"
+        android:layout_alignRight="@+id/butMode2"
+        android:layout_below="@+id/butMode2"
+        android:layout_marginTop="18dp"
+        android:text="@string/butModeOff" />
+</RelativeLayout>

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TrajeLedBT</string>
+
+    <string name="butConnect">CONECTAR BT</string>
+    <string name="butConnectPush">DESCONECTAR BT</string>
+
+    <string name="butMode1">MODO 1</string>
+    <string name="butMode2">MODO 2</string>
+    <string name="butModeOff">APAGAR</string>
+
+
+    <string name="btavailable">Su dispositivo no dispone de Bluetooth</string>
+    <string name="btactivated">Su Bluetooth ha sido activado</string>
+    <string name="btnotactivated">Su Bluetooth no ha podido activarse. Su aplicacion se cerrara</string>
+    <string name="btconnected">Se ha conectado correctamente </string>
+    <string name="btdisconnected">Bluetooth desconectado </string>
+
+    <string name="error">Ha ocurrido un error </string>
+    <string name="error_con">Se ha desconectado de su traje LED</string>
+
+    <string name="linkeddevices">Dispositivos Vinculados</string>
+    <string name="failmac">Fallo al obtener el MAC</string>
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="action_settings">Configuracion</string>
+    <string name="title_activity_lateral_menu">LateralMenu</string>
+    <string name="title_activity_main_menu">Traje Led</string>
+
+
+    <string name="tab1_name">Modos Basicos</string>
+    <string name="tab2_name">Mis Modos</string>
+    <string name="tab3_name">Estado</string>
+</resources>
